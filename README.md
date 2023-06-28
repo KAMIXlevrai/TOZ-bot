@@ -7,4 +7,4 @@ I spent a lot of time doing it but I still have it free for everyone, it's so yo
 
 link of bot : https://kamixlevrai.github.io/TOZ-bot/
 
-if you have a problem write (you have to write help twice because it's a command): help help
+if you find a bug please contact me in the discussions chanel
