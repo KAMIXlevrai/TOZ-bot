@@ -9,4 +9,4 @@ link of bot : https://kamixlevrai.github.io/TOZ-bot/
 
 my discord server : https://discord.gg/9HCSZdRzuP
 
-if you find a bug please contact me in the discussions chanel
+if you find a bug please contact me in the discussions chanel or in my discord server :)
