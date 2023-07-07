@@ -7,4 +7,6 @@ I spent a lot of time doing it but I still have it free for everyone, it's so yo
 
 link of bot : https://kamixlevrai.github.io/TOZ-bot/
 
+my discord server : https://discord.gg/9HCSZdRzuP
+
 if you find a bug please contact me in the discussions chanel
